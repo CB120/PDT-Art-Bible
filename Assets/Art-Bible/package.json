@@ -1,0 +1,19 @@
+{
+  "name": "com.pdt.art-bible",
+  "description": "art bible for the PDT project 2025",
+  "version": "1.0.0",
+  "displayName": "PDT Art Bible",
+  "unity": "6000.1",
+  "unityRelease": "14f1",
+  "documentationUrl": "...",
+  "changelogUrl": "...",
+  "licensesUrl": "...",
+  "keywords": [
+    "art-bible"
+  ],
+  "author": {
+    "name": "PDT",
+    "email": "",
+    "url": ""
+  }
+}
